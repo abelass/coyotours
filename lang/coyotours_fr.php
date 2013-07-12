@@ -6,7 +6,8 @@ if (!defined('_ECRIRE_INC_VERSION')) return;
 $GLOBALS[$GLOBALS['idx_lang']] = array(
 
 	// C
-	'coyotours_titre' => 'Coyotours',
+	'combinar_con' => 'A combinar con',
+	'coyotours_titre' => 'Coyotours',	
 );
 
 ?>
