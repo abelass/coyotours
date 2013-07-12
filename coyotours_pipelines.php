@@ -19,7 +19,7 @@ if (!defined('_ECRIRE_INC_VERSION')) return;
  */
 
 function coyotours_insert_head($flux){
-    $flux .= "<link rel='stylesheet' href='".find_in_path("css/")."' type='text/css' />\n";
+    $flux .= "<link rel='stylesheet' href='".find_in_path("css/coyotours.less")."' type='text/css' />\n";
     return $flux;
 }
 
